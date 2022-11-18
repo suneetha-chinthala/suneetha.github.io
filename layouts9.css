@@ -1,0 +1,33 @@
+.bgimg {
+    background-image: url(https://expertphotography.b-cdn.net/wp-content/uploads/2020/06/diy-food-background-5.jpg);
+    height:120vh;
+    background-size: cover;
+}
+.mobilehrad {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    padding:25px;
+}
+.layoutcard {
+    background-color: white;
+    border-radius: 8px;
+    padding:18px;
+    margin: 15px;
+}
+.brandscont {
+    color:#041836;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brandspara {
+    color:#6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+.brandimg {
+    width: 100px;
+    height: 100px;
+}
